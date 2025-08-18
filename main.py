@@ -1,4 +1,4 @@
-"""Module providing a function printing python version."""
+"""Entry point"""
 
 
 
